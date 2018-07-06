@@ -1,0 +1,127 @@
+#indexBody{
+	background-color: #1f6287;
+	margin: 0px;
+}
+	header{
+		height: 75px;
+		width: 100%;
+		font-size: 50px;
+		color: white;
+		background-color: #052049;
+		margin-bottom: 50px;
+	}
+	footer{
+		height: 20px;
+		width: 100%;
+		border: 10;
+		color: white;
+		background-color:#052049;
+	}
+	#navmenu{
+			width: 385px;
+			height: 50px;
+			margin: auto;
+	}
+	.navitem{
+		font-size: 30px;
+		list-style-type: none;
+		display: inline;
+		padding: 10px;
+	}
+		.navitem:link{
+			color: blue;
+		}
+		.navitem:hover{
+			color: purple;
+		}
+		.navitem:active{
+			color: white;
+		}
+	#mainBody{
+		margin-top: -8px;
+		margin-bottom: -8px;
+		background-color: #178ccb;
+	}
+	#leftside{
+		float: left;
+		width: 70%;
+		border: 0px;
+	}
+	#rightside{	
+		float: right;
+		border: 0px;
+		width: 30%;
+	 }
+	.clearfloat{
+		clear: right;
+	}
+	p{
+		color:black;
+		font-size: 30;
+	}
+	hr{
+		border-color: #052049;
+	}
+	span{
+		font-size: 35px;
+	}
+		.listOne{
+		color:blue;
+		font-size: 40;
+	}
+		.listOneDiv{
+			height: 250px;
+			width: 330px;
+			border: 5px double;
+		}
+		#listOneTitle{
+		font-size: 30px;
+		}
+	.description{
+		color:black;
+		font-size: 30px;
+	}
+	#triviaButton{
+		font-size: 30px;
+		height: 50px;
+		width: 150px;
+		color: white;
+		background-color: #4A3728;
+		border-radius: 15px;
+	}
+	#triviaButton:hover{
+		height: 60px;
+		width: 180px;
+		font-size: 38px;
+	}
+	.trivia{
+		height: 50%;
+		width: 75%;
+		border: 5px double;
+		margin: 25px;
+		padding: 5px;
+	}
+	.questionOne{
+		font-size: 25px;
+		}
+	#fishPNG{
+		height: 225px;
+		width: 375px;
+		margin: 25px;
+	}
+	#stuffBody{
+		background-color:#052049;
+	}
+	#comingSoon{
+		color: white;
+		font-size: 30px;
+	}
+	.return{
+		width: 300px;
+		margin: auto;
+		margin-top: 100px;
+		border: 5px double;
+	}
+	#bth{
+		font-size: 50px;
+	}
